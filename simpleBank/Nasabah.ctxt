@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nasabah()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nasabah\r\n
+comment1.params=nama\ noRek\ alamat\ noTelp\ saldo
+comment1.target=Nasabah(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Contructor\ @nama,\ @noRek..\r\n\ contoh\ method\ MANAGER\r\n
+comment2.params=nama
+comment2.target=void\ setNama(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=int\ getSaldo()
+comment5.params=jmlTarikTunai
+comment5.target=void\ tarikTunai(int)
+comment6.params=jmlSetor
+comment6.target=void\ setorTunai(int)
+comment7.params=tujuan\ jmlTransfer
+comment7.target=void\ transfer(Nasabah,\ int)
+comment8.params=jml
+comment8.target=boolean\ checkSaldo(int)
+comment9.params=
+comment9.target=java.lang.String\ getNoRek()
+numComments=10
